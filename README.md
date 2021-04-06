@@ -6,3 +6,4 @@ Related repos:
 
 - https://github.com/geosolutions-it/C195-azure-workspace: azure scripts, mainly devops tasks
 - https://github.com/geosolutions-it/ckanext-c195: specific customization for c195, mainly GUI tasks
+- https://github.com/geosolutions-it/ckanext-azure-auth: CKAN extension for ADFS authentication
